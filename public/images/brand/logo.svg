@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <style>
+    .brand-title { font-family: "Cormorant Garamond", Georgia, serif; font-size: 52px; font-weight: 400; fill: #ffffff; letter-spacing: 0.14em; text-anchor: middle; }
+    .brand-sub { font-family: "Outfit", sans-serif; font-size: 14px; font-weight: 300; fill: #a3a3a3; letter-spacing: 0.32em; text-anchor: middle; text-transform: uppercase; }
+  </style>
+  <text x="200" y="52" class="brand-title">Eastetic</text>
+  <text x="200" y="80" class="brand-sub">TOUCH — YOUR SKIN</text>
+</svg>

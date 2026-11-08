@@ -1,0 +1,6 @@
+{
+  "name": "EASTETIC – European Medical Aesthetics",
+  "description": "Clinically engineered, high-performance medical aesthetic solutions manufactured in Spain for dermatologists, aesthetic doctors, and clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
